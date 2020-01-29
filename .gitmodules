@@ -1,0 +1,4 @@
+[submodule "wiki-test.wiki"]
+	path = wiki-test.wiki
+	url = git@github.com:adamcathersides/wiki-test.wiki.git
+	branch = master
