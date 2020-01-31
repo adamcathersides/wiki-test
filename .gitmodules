@@ -1,0 +1,4 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/adriantanasa/github-wiki-sidebar.git
+	branch = master
