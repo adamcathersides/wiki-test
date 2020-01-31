@@ -2,3 +2,7 @@
 	path = wiki-test.wiki
 	url = git@github.com:adamcathersides/wiki-test.wiki.git
 	branch = master
+[submodule "docs"]
+	path = docs
+	url = https://github.com/adriantanasa/github-wiki-sidebar.git
+	branch = master
